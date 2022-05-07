@@ -1,0 +1,12 @@
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\bin\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.exe
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\bin\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.deps.json
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\bin\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.runtimeconfig.json
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\bin\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.runtimeconfig.dev.json
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\bin\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.dll
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\bin\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.pdb
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\obj\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.AssemblyInfoInputs.cache
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\obj\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.AssemblyInfo.cs
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\obj\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\obj\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.dll
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\obj\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.pdb
+C:\Users\OS\source\repos\spammer-sms by.LIl เพลี่ยงพล้ำ\spammer-sms by.LIl เพลี่ยงพล้ำ\obj\Debug\netcoreapp3.1\spammer-sms by.LIl เพลี่ยงพล้ำ.genruntimeconfig.cache
